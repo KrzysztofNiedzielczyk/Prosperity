@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5beba78f6ca44fd48be3ca6eb59fa86e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bonfire: {fileID: 11400000, guid: d089ccbf243a6e64aa5547cd0ebf1b57, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

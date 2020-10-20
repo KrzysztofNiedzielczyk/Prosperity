@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 511cc5bd9777ca44bbee20c4e6fdf3e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - container: {instanceID: 0}
+  - structureTemplate: {instanceID: 0}
+  - tools: {fileID: 21300000, guid: c0c53d9cb36ba3340a436b83b0c22615, type: 3}
+  - coin: {fileID: 21300000, guid: e39b094f05100d041a840905897b1608, type: 3}
+  - jewel: {fileID: 21300000, guid: a10be43008667cc4fbc7c99c9459ec07, type: 3}
+  - structureDatabase: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
